@@ -46,3 +46,14 @@ Developing a classification model to predict the likelihood of vehicle accidents
 3. Random Forest initially outperformed with high accuracy and ROC-AUC but was overfit.
 4. XGBoost demonstrated consistent performance with the highest F1 scores after tuning.
 5. The XGBoost Classifier was chosen as the preferred model for this classification project.
+
+## Acknowledgments
+
+The dataset used for this project is obtained from [(https://colab.research.google.com/drive/11B63ha9A33oS0Gra2wb1ByMec0vGDVxv?usp=sharing)] and should be credited.
+
+## Author
+
+- Keshav Kushwah
+- Contact: keshavkushwah03@gmail.com
+
+Feel free to reach out if you have any questions or suggestions!
